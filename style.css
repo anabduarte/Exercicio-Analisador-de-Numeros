@@ -1,0 +1,24 @@
+body {
+    background-color: darkslateblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.242);
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
